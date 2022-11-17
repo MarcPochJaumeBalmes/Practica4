@@ -1,0 +1,24 @@
+
+h1{
+
+    color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+    font-family: Arial;
+
+}
+caption{
+    color: blue;
+
+}
+table{
+
+    margin: 0 auto;
+}
+
+th{
+
+    background-color: rgb(156, 156, 156);
+
+
+}
